@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego de tus ojos
+
+This log tracks the cryptographic history and versioning for the song **Fuego de tus ojos** (fuego-de-tus-ojos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:20:24.436294 | `v1` | `f56dc965fbaaa236cc7b9ab782057f9f885c311d4c1654fe415dc05f06f5b5cf` | `c593cc05e0d6c30c440f12d822b249c77650133fd0795d1ee235ad98eeefc79c` | `2026-06-21_fuego-de-tus-ojos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Fuego de tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-tus-ojos/) |
+| **Get License** | [Official Music Licensing for Fuego de tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f56dc965fbaaa236cc7b9ab782057f9f885c311d4c1654fe415dc05f06f5b5cf` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
